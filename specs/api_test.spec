@@ -36,3 +36,10 @@ API Test Scenario 5
 
 * Sample Step
 
+
+API Test Scenario 6
+-----------------------------
+
+* Sample Step
+
+

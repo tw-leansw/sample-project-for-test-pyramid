@@ -9,7 +9,7 @@ Specification for user query, create, update, delete (test update)
 UI Test Scenario 1
 -----------------------------
 
-* Sample Step
+* Complex Step
 
 
 UI Test Scenario 2

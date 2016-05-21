@@ -10,12 +10,14 @@ API Test Scenario 1
 -----------------------------
 
 * Sample Step
+* Sample Step
+* Sample Step
 
 
 API Test Scenario 2
 -----------------------------
 
-* Sample Step
+* Failed Step
 
 
 
@@ -28,7 +30,7 @@ API Test Scenario 3
 API Test Scenario 4
 -----------------------------
 
-* Sample Step
+* Complex Step
 
 
 API Test Scenario 5
@@ -40,6 +42,6 @@ API Test Scenario 5
 API Test Scenario 6
 -----------------------------
 
-* Sample Step
+* Failed Step
 
 

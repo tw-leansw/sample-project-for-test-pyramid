@@ -28,4 +28,3 @@ Feature: API Test
     Given I have 10 cukes
     When I eat 1 cukes
     Then There are 9 cukes left
-

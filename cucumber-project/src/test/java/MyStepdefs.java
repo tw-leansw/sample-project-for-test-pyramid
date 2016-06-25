@@ -13,7 +13,6 @@ public class MyStepdefs {
     public void I_have_cukes_in_my_belly(int count) {
         cukes=new Cukes();
         cukes.setCukes(count);
-
     }
 
 

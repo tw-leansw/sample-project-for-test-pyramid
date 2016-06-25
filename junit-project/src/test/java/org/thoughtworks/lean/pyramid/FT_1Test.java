@@ -15,7 +15,7 @@ public class FT_1Test {
     @Test
     public void test2() throws InterruptedException {
         Thread.sleep(100);
-        assertEquals(1,2);
+        assertEquals(2,2);
     }
 
     @Ignore
@@ -32,8 +32,6 @@ public class FT_1Test {
     @Test
     public void test4() throws InterruptedException {
         Thread.sleep(100);
-        throw new RuntimeException();
     }
-
 
 }

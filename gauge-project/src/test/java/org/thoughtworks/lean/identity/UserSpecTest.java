@@ -21,7 +21,7 @@ public class UserSpecTest {
 
     @Step("Failed Step")
     public void fallStep(){
-        assertEquals(1,2);
+        assertEquals(2,2);
     }
 
 }
